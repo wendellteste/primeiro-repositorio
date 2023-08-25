@@ -1,1 +1,1 @@
-print("Meu primeiro código online! :)")
+erro = "nenhum erro aqui"
